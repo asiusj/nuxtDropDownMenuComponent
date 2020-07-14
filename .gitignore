@@ -1,0 +1,5 @@
+# Nuxt app 
+node_modules
+.nuxt
+# Editor
+.vscode
